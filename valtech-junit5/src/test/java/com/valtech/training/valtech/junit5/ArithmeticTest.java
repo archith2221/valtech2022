@@ -46,7 +46,7 @@ public class ArithmeticTest {
 				@CsvSource({
 				"Subtracting 2 Positive Nos',2,3,-1",
 				"Subtracting 2 Negative Nos',-2,-3,1",
-				"Subtracting 1 Positive 1 Negative No',-2,-3,-5",
+				"Subtracting 1 Positive 1 Negative No',2,-3,5",
 				
 				})
 
